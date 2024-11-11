@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-revision",
+  "version": "1.0.0",
+  "description": "\"This is a test file\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "ayush": "node app.js"
+  },
+  "author": "ayush kapruwan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
